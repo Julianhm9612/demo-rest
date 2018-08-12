@@ -40,5 +40,5 @@ mvn clean install
 
 ## Test
 
-Test the service open this URL: http://127.0.0.1:8080/demo-rest/api/hello-world
+Test the service opening this URL: http://127.0.0.1:8080/demo-rest/api/hello-world
 
